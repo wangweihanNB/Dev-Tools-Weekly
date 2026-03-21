@@ -6,3 +6,6 @@
 ## 第一周：instant-codesnap（瞬时码窗）
 具体介绍在（https://github.com/Programming-Newbies-Community/instant-codesnap ）
 线上体验：https://programming-newbies-community.github.io/instant-codesnap
+## 📱 效果截图
+
+![Mobile Console Viewer 控制台面板](https://i.ibb.co/zWmkzg28/Screenshot-20260321-164146-com-huawei-browser.jpg)
