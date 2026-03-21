@@ -1,5 +1,14 @@
-## 每周一个我自己做的有助于开发者的软件，欢迎提出问题，我的邮箱地址是13053408352@163.com
-每一个软件都是我自己制作的，软件的仓库在我的组织（https://github.com/Programming-Newbies-Community ）里。
+# 🛠️ 开发者工具周刊
+
+每周一款我亲手打造的开发者工具，解决真实开发痛点。
+
+---
+
+## 📌 关于
+
+我是 **wangweihanNB**，GitHub 开发者计划成员。这个周刊每周发布一款我自己开发的工具，所有工具都源于实际开发需求，经过真实场景测试，专为移动端和 Web 开发者设计。
+
+**联系我**：13053408352@163.com
 ## 第二周：Mobile-Console-Viewer（手机端实时控制台日志查看器）
 具体介绍在（https://github.com/Programming-Newbies-Community/Mobile-Console-Viewer ）
 线上体验：https://programming-newbies-community.github.io/Mobile-Console-Viewer
