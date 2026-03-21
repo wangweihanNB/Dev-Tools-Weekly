@@ -8,4 +8,4 @@
 线上体验：https://programming-newbies-community.github.io/instant-codesnap
 ## 📱 效果截图
 
-![Mobile Console Viewer 控制台面板](https://i.ibb.co/zWmkzg28/Screenshot-20260321-164146-com-huawei-browser.jpg)
+https://ibb.co/mr59t47X
