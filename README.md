@@ -8,4 +8,5 @@
 线上体验：https://programming-newbies-community.github.io/instant-codesnap
 ## 📱 效果截图
 
-！[instant-codesnap截图]（https://ibb.co/mr59t47X/Screenshot-20260321-164146-com-huawei-browser.jpg）
+！[instant-codesnap截图]（https://ibb.co/mr59t47X/Screenshot_20260321_164146_com.huawe
+i.browser.jpg）
