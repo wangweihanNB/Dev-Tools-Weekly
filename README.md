@@ -6,7 +6,8 @@
 ## 第一周：instant-codesnap（瞬时码窗）
 具体介绍在（https://github.com/Programming-Newbies-Community/instant-codesnap ）
 线上体验：https://programming-newbies-community.github.io/instant-codesnap
-## 📱 效果截图
 
+## 第一周效果截图
 [instant-codesnap截图]（https://ibb.co/mr59t47X ）
+## 第二周效果截图
 [Mobile-Console-Viewer截图]（https://ibb.co/prf4nTNC ）
