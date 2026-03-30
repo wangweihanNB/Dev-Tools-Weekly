@@ -10,6 +10,10 @@
 
 **联系我**：13053408352@163.com
 ## 📅 周刊列表
+### 第三周：Code Snippet Manager（代码片段管理器）
+具体介绍在（https://github.com/Programming-Newbies-Community/Code-Snippet-Manager ）
+线上体验：https://programming-newbies-community.github.io/Code-Snippet-Manager
+[Code Snippet Manager效果截图]（https://ibb.co/tpbxfB2R ）
 ### 第二周：Mobile-Console-Viewer（手机端实时控制台日志查看器）🛠
 具体介绍在（https://github.com/Programming-Newbies-Community/Mobile-Console-Viewer ）
 线上体验：https://programming-newbies-community.github.io/Mobile-Console-Viewer
