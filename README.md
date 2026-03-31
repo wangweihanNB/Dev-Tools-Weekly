@@ -1,4 +1,7 @@
 # 🛠️ 开发者工具周刊
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wangweihanNB/Dev-Tools-Weekly/main/images/cover.jpg" width="800">
+</p>
 
 每周一款我亲手打造的开发者工具，解决真实开发痛点。
 
