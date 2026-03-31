@@ -17,10 +17,10 @@
 具体介绍在（https://github.com/Programming-Newbies-Community/Code-Snippet-Manager ）
 线上体验：https://programming-newbies-community.github.io/Code-Snippet-Manager
 
-### 第二周：Mobile-Console-Viewer（手机端实时控制台日志查看器）🛠
+### 第二周：Mobile-Console-Viewer（手机端实时控制台日志查看器）
 具体介绍在（https://github.com/Programming-Newbies-Community/Mobile-Console-Viewer ）
 线上体验：https://programming-newbies-community.github.io/Mobile-Console-Viewer
 
-### 第一周：instant-codesnap（瞬时码窗）🛠
+### 第一周：instant-codesnap（瞬时码窗）
 具体介绍在（https://github.com/Programming-Newbies-Community/instant-codesnap ）
 线上体验：https://programming-newbies-community.github.io/instant-codesnap
