@@ -16,12 +16,11 @@
 ### 第三周：Code Snippet Manager（代码片段管理器）
 具体介绍在（https://github.com/Programming-Newbies-Community/Code-Snippet-Manager ）
 线上体验：https://programming-newbies-community.github.io/Code-Snippet-Manager
-[Code Snippet Manager效果截图]（https://ibb.co/tpbxfB2R ）
+
 ### 第二周：Mobile-Console-Viewer（手机端实时控制台日志查看器）🛠
 具体介绍在（https://github.com/Programming-Newbies-Community/Mobile-Console-Viewer ）
 线上体验：https://programming-newbies-community.github.io/Mobile-Console-Viewer
-[Mobile-Console-Viewer效果截图]（https://ibb.co/prf4nTNC ）
+
 ### 第一周：instant-codesnap（瞬时码窗）🛠
 具体介绍在（https://github.com/Programming-Newbies-Community/instant-codesnap ）
 线上体验：https://programming-newbies-community.github.io/instant-codesnap
-[instant-codesnap效果截图]（https://ibb.co/mr59t47X ）
