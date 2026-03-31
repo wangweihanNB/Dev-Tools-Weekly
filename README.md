@@ -1,6 +1,6 @@
 # 🛠️ 开发者工具周刊
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wangweihanNB/Dev-Tools-Weekly/main/images/IMG_20260331_194052_edit_5630435560077.jpg" width="800">
+  <img src="https://raw.githubusercontent.com/wangweihanNB/Dev-Tools-Weekly/main/images/IMG_20260331_214004_edit_10916043168125.jpg" width="800">
 </p>
 
 每周一款我亲手打造的开发者工具，解决真实开发痛点。
