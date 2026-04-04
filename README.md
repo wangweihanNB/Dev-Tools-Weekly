@@ -13,6 +13,10 @@
 
 **联系我**：13053408352@163.com
 ## 📅 周刊列表
+### 第四周：Mock API Generator（JSON 假数据生成器）
+具体介绍在（https://github.com/Programming-Newbies-Community/Mock-API-Generator ）
+线上体验：https://programming-newbies-community.github.io/Mock-API-Generator/
+
 ### 第三周：Code Snippet Manager（代码片段管理器）
 具体介绍在（https://github.com/Programming-Newbies-Community/Code-Snippet-Manager ）
 线上体验：https://programming-newbies-community.github.io/Code-Snippet-Manager
